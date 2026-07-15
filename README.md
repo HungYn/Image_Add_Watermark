@@ -21,7 +21,7 @@
 | **Digits** | 流水號位數（例如 3 → 001, 002） |
 | **FontSize** | 字型大小(12) |
 | **FontPath** | 字型檔路徑(新細明體mingliu.ttc) |
-| **StartNumber** | 流水號起始數字 |
+| **StartNumber** | 流水號起始數字(1) |
 
 ```ni
 [Settings]
@@ -34,7 +34,7 @@ Color = #0000ff
 Digits = 3
 FontSize = 12
 FontPath = C:/Windows/Fonts/mingliu.ttc
-StartNumber = 2
+StartNumber = 1
 ```
 
 ## 🎯 使用範例
