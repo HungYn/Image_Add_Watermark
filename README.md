@@ -17,7 +17,7 @@
 | **Output** | 轉換後輸出圖片資料夾D:\Python39\output |
 | **X / Y** | 浮水印文字座標位置 |
 | **Prefix** | 浮水印前綴文字 |
-| **Color** | 文字顏色（支援 #0000ff） |
+| **Color** | 文字顏色（支援 #000000）黑色 |
 | **Digits** | 流水號位數（例如 3 → 001, 002） |
 | **FontSize** | 字型大小(12) |
 | **FontPath** | 字型檔路徑(新細明體mingliu.ttc) |
@@ -30,7 +30,7 @@ Output = D:\Python39\output
 X = 122
 Y = 152
 Prefix = 78011A
-Color = #0000ff
+Color = #000000
 Digits = 3
 FontSize = 12
 FontPath = C:/Windows/Fonts/mingliu.ttc
