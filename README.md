@@ -52,3 +52,6 @@ StartNumber = 1
 ```
 ![screenshot](https://github.com/HungYn/Image_Add_Watermark/blob/main/TEST.png)
 
+## 🎯如何查看XY軸
+用小畫家開啟圖片，游標指到要的位子後，查看左下角的X軸,Y軸，例如X128 Y135
+![screenshot](https://github.com/HungYn/Image_Add_Watermark/blob/main/如何查看XY軸.png)
